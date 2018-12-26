@@ -1,5 +1,5 @@
 _repo: English-Wayfaring-Life-in-the-Middle-Ages-XIVth-Century_58530
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Gate, Albert
@@ -9,6 +9,9 @@ contributor:
     agent_name: Smith, Lucy Toulmin
     gutenberg_agent_id: '50015'
     url: http://www.gutenberg.org/2009/agents/50015
+covers:
+- cover_type: archival
+  image_path: 58530-h/images/cover.jpg
 creator:
   author:
     agent_name: Jusserand, J. J. (Jean Jules)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25062
     wikipedia: http://en.wikipedia.org/wiki/Jean_Jules_Jusserand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58530#English-Wayfaring-Life-in-the-Middle-Ages-XIVth-Century
 gutenberg_issued: '2018-12-24'
 gutenberg_type: Text
 identifiers:
